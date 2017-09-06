@@ -10,7 +10,7 @@ I am a 24 year old Computer Science/Physics (Electronics) graduate from Winona S
 
 ### Winona State CS Website
 
-During my time at Winona State I was given the opportunity during a web development course to work on a team designing and developing the new version of our school's Computer Science department website (GitHub [here](https://github.com/WSU-CS/CS-Website)).
+During my time at Winona State I was given the opportunity during a web development course to work on a team designing and developing the new version of our school's Computer Science department website (GitHub [here](https://github.com/WSU-CS/CS-Website)). For this project I worked primarily as a back-end developer, working to design and create tools for use by admins, meaning all faculty but mainly focused on professor's. My main responsibility was working on a web application to be used to customize faculty webpages and easily update and maintain faculty information.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
