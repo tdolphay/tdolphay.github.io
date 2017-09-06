@@ -1,5 +1,5 @@
-title: Tad Dolphay
-description: A page for Tad Dolphay's projects
-show_downloads: false
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
+show_downloads: true
 google_analytics:
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
