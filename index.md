@@ -109,7 +109,7 @@ end
 <dt>Born</dt>
 <dd>1952</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>Eagan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
