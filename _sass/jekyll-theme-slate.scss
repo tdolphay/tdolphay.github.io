@@ -364,12 +364,18 @@ Full-Width Styles
 	background: #212121;
 }
 
+footer p {
+	display: inline;
+}
+
 #copyright {
 	float: left;
+	vertical-align: top;
 }
 
 #published {
 	float: right;
+	vertical-align: top;
 }
 
 
