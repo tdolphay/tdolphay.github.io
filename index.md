@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# [hi](#header-1)Link Header
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
