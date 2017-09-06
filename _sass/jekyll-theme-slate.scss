@@ -364,19 +364,20 @@ Full-Width Styles
 	background: #212121;
 }
 
+footer .inner {
+	line-height: 38px;
+}
 footer p {
 	display: inline;
 }
 
 #copyright {
 	vertical-align: middle;
-	line-height: 38px;
 }
 
 #published {
 	float: right;
 	vertical-align: middle;
-	line-height: 38px;
 }
 
 
