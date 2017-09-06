@@ -6,6 +6,7 @@ layout: default
 # [](#header-1)About Me
 
 I am a 24 year old Computer Science/Physics (Electronics) graduate from Winona State University.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
