@@ -6,6 +6,10 @@ layout: default
 
 I am a 24 year old Computer Science/Physics (Electronics) graduate from Winona State University. I've been able to work at a wide variety of company's ranging the spectrum from debugging and automated analysis of computational physics simulations to helping to create a software interface to interact with microprocessors and FPGA boards. This large difference in necessary skill sets has allowed me to develop a multitude of skills across many fields, including skills related to hardware/software interfaces as well as gaining experience designing and developing systems in both scientific and traditional software devlopment environments.
 
+# [](#header-1)Projects
+
+# [](#header-3)Winona State CS Website
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
