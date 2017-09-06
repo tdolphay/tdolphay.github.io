@@ -8,8 +8,9 @@ I am a 24 year old Computer Science/Physics (Electronics) graduate from Winona S
 
 # Projects
 
-### [](#header-3)Winona State CS Website
-During my time at Winona State I was given the opportunity during a web development course to work on a team designing and developing the new version of our school's Computer Science department website.
+### Winona State CS Website
+
+During my time at Winona State I was given the opportunity during a web development course to work on a team designing and developing the new version of our school's Computer Science department website (GitHub [https://github.com/WSU-CS/CS-Website](here).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
